@@ -13,7 +13,7 @@ _🦌 网页"小"游戏 🥛_
 
 ## 其它事项
 
-点下star吧~ 欢迎pr代码
+基于Xxtyme的Eatcxk制作，原作者github仓库在次[点这里](https://github.com/Xxtyme/EatCxk)
 
 可修改和续写，需保留跳转此仓库的开源按钮
 
